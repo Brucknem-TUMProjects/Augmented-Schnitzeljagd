@@ -1,0 +1,36 @@
+<Routes>
+	<Route>
+		<Name>r1</Name>
+		<Coordinates>
+			<Coordinate>
+				<Longitude>11.62</Longitude>
+				<Latitude>-22.25</Latitude>
+				<GameType>0</GameType>	<!-- Default = 0, means no minigame -->
+			</Coordinate>
+			<Coordinate>
+				<Coord>11.0</Coord>
+				<Coord>-22.0</Coord>
+				<GameType>1</GameType>
+			</Coordinate>
+		</Coordinates>
+	</Route>
+		<Route>
+		<Name>r2</Name>
+		<Coordinates>
+			<Coordinate>
+				<Longitude>11.33</Longitude>
+				<Latitude>-22.33</Latitude>
+				<GameType>0</GameType>	<!-- Default = 0, means no minigame -->
+			</Coordinate>
+			<Coordinate>
+				<Coord>11.55</Coord>
+				<Coord>-22.55</Coord>
+				<GameType>1</GameType>
+			</Coordinate>
+		</Coordinates>
+	</Route>
+</Routes>
+		
+		
+		
+		

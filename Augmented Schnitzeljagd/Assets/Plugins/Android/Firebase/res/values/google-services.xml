@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://augmented-schnitzeljagd-42310.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1078188229095</string>
+  <string name="google_storage_bucket" translatable="false">augmented-schnitzeljagd-42310.appspot.com</string>
+  <string name="project_id" translatable="false">augmented-schnitzeljagd-42310</string>
+  <string name="google_api_key" translatable="false">AIzaSyCv6PRGtSdhl6Mtq0JilL9SdifMGhORu_o</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCv6PRGtSdhl6Mtq0JilL9SdifMGhORu_o</string>
+  <string name="google_app_id" translatable="false">1:1078188229095:android:9b0b8cb99281a41e</string>
+  <string name="default_web_client_id" translatable="false">1078188229095-987pfov063o03ehnvosld3e5cfpqf54f.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1078188229095",
+    "firebase_url": "https://augmented-schnitzeljagd-42310.firebaseio.com",
+    "project_id": "augmented-schnitzeljagd-42310",
+    "storage_bucket": "augmented-schnitzeljagd-42310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078188229095:android:9b0b8cb99281a41e",
+        "android_client_info": {
+          "package_name": "com.augmentedschnitzeljagd.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078188229095-987pfov063o03ehnvosld3e5cfpqf54f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv6PRGtSdhl6Mtq0JilL9SdifMGhORu_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
